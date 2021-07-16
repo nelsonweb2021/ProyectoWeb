@@ -97,6 +97,15 @@
   background:white;
   overflow:hidden;
 }
+
+.galeria_contenedor {
+ display:flex;
+ background:red;
+ width:6000px;
+ height:350px;
+ transition: transform 1s ease-in;
+ will-change:transform;
+}
   
 
 
