@@ -108,6 +108,17 @@
 }
   
 
+.elemento1: checked ~ .galeria_contenedor {
+ transform: translateX(0px);
+}
+
+.elemento2: checked  ~ .galeria_contenedor {
+ transform: translateX(0px);
+}
+
+.elemento3: checked  ~ .galeria_contenedor {
+ transform: translateX(0px);
+}
 
 
 
