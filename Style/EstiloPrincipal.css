@@ -90,6 +90,13 @@
   justify-content:center;
   align-item:center;
 }
+
+.galeria_lienzo {
+  width:600px;
+  height:350px;
+  background:white;
+  overflow:hidden;
+}
   
 
 
