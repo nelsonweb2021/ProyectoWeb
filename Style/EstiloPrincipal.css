@@ -92,7 +92,7 @@
 }
 
 .galeria_lienzo {
-  width: 400px;
+  width: 600px;
   height: 350px;
   background: white;
   overflow: hidden;
@@ -102,7 +102,7 @@
  display: flex;
  background: red;
  width: 6000px;
- height: 350px;
+ height: 400px;
  transition: transform 1s ease-in;
  will-change: transform;
 }
