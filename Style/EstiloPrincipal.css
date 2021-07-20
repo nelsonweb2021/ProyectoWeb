@@ -89,13 +89,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 3px; 
+
 }
 
 .galeria_lienzo {
   width: 600px;
   height: 350px;
   overflow: hidden;
+  border-radius: 3px; 
 }
 
 .galeria_contenedor {
