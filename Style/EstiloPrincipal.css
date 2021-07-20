@@ -100,8 +100,8 @@
 
 .galeria_contenedor{
  display: flex;
- width: 9000px;
- height: 340px;
+ width: 7000px;
+ height: 50px;
  transition: transform 1s ease-in;
  will-change: transform;
 }
