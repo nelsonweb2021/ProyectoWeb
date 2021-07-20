@@ -101,7 +101,7 @@
 .galeria_contenedor{
  display: flex;
  width: 9000px;
- height: 320px;
+ height: 340px;
  transition: transform 1s ease-in;
  will-change: transform;
 }
