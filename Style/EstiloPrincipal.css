@@ -97,7 +97,6 @@
   width: 600px;
   height: 350px;
   overflow: hidden;
-  border-radius: 3px; 
 }
 
 .galeria_contenedor {
@@ -106,6 +105,7 @@
  height: 50px;
  transition: transform 1s ease-in;
  will-change: transform;
+ border-radius: 3px; 
 }
   
 
