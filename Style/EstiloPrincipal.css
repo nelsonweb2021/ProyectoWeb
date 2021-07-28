@@ -150,7 +150,6 @@ label{
   
 }
 
-
 .tienda article {
  display: flex;
  justify-content: center;
@@ -163,7 +162,7 @@ label{
 
 
 .tienda figure{
- 
+ align: center;
 }
 
 .tienda div{
