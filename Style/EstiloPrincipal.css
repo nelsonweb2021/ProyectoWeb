@@ -165,8 +165,12 @@ label{
  top: 5px;
  width: 150px;
  height: 100px;
- margin-left: auto;
- margin-right: auto;
+}
+
+
+.tienda figure{
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .tienda div{
