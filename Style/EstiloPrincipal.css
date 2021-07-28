@@ -177,6 +177,7 @@ label{
 
 .tienda p{
  text-align:center; 
+ justify-content: center;
 }
 
 .tienda h3{
