@@ -142,7 +142,7 @@ label{
 
 .tienda{
  display: grid;
- grid-template: repeat(3, 300px) / 300px;
+ grid-template: repeat(3, 300px) / repeat(2, 300px);
  justify-content: center;
  grid-gap:16px;
  width: 100%;
@@ -187,11 +187,7 @@ label{
 }
 
 
-@media screen and (min-width: 600px) {
- .tienda{
-   grid-template: repeat(3, 300px) / repeat(2, 300px);
-  }
-}
+
 
 
 
