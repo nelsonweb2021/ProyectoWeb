@@ -161,9 +161,13 @@ label{
 }
 
 
-.tienda figure{
- align: center;
+.tienda img {
+ position:relative;
+ top: 5px;
+ width: 150px;
+ height: 100px;
 }
+
 
 .tienda div{
  width: 100%;
@@ -179,6 +183,8 @@ label{
 .tienda h3{
  text-align:center; 
 }
+
+
 
 
 
