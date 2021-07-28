@@ -178,8 +178,8 @@ label{
 
 .tienda p{
  
- justify-content: center;
- align:justify;
+ justify-content: space-around;
+ 
 }
 
 .tienda h3{
