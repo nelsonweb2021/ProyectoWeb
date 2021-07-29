@@ -193,11 +193,11 @@ label{
  justify-content: space-between;
  position: relative;
  height: 100px;
- 
+ background: #008B99; 
 }
 
 .PiePagina footer{
- background: #008B99; 
+
 }
 
 
