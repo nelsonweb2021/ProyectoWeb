@@ -222,6 +222,15 @@ label{
  color:white;
 }
 
+/*responsive desig */
+
+@media screen and (max-width: 1220px) {
+ .contenedor, .galeria, .galeria_lienzo, .galeria_contenedor, .PiePagina, .tienda article {
+   
+   max-width:1000px;
+   padding:0 20px;
+  }
+}
 
 
 
