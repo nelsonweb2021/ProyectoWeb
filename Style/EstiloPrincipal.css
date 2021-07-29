@@ -224,14 +224,11 @@ label{
 
 /*responsive desig */
 
-@media screen and (max-width: 1220px) {
- .contenedor, .galeria, .galeria_lienzo, .galeria_contenedor, .PiePagina, .tienda article {
-   
-   max-width:1000px;
-   padding:0 20px;
-  }
+@media screen and (min-width: 600px){
+	.tienda{
+		grid-template: repeat(3, 300px) / repeat(2, 300px) ;
+	}
 }
-
 
 
 
