@@ -199,9 +199,10 @@ label{
  position: relative;
  height: 100px;
  background: #008B99; 
+ align-content:center;
 }
 
-.PiePagina{
+.PiePagina footer{
  text-align: center;
  justify-content:center;
  color:white;
