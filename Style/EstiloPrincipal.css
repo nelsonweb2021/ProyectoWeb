@@ -188,6 +188,11 @@ label{
 
 /**************************/
 
+.espacio{
+ position: relative;
+ height: 20px;
+}
+
 .PiePagina {
  display: flex;
  justify-content: space-between;
