@@ -167,7 +167,20 @@
 	                </div>
 	     
           </div>
-          
+          <script type="text/javascript">
+			
+			const btn=document.getElementById("iconMenu");
+			const menu=document.querySelector(".nav");
+
+			btn.addEventListener("click",(e)=>{
+				e.preventDefault();
+				menu.classList.toggle("nav--move");
+				
+			});
+
+		</script>
+	    
+	    
     </body>
   
 </html>  
