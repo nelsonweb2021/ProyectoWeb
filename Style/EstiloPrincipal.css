@@ -141,7 +141,7 @@ label{
 /*********************************/
 
 .tienda{
- display: grid;
+ display: flex;
  grid-template: repeat(3, 300px) / repeat(3, 300px);
  justify-content: center;
  grid-gap:16px;
