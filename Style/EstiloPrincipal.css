@@ -195,7 +195,7 @@ label{
 
 .PiePagina {
  display: flex;
- justify-content: space-between;
+ justify-content: center;
  position: relative;
  height: 100px;
  background: #008B99; 
@@ -204,7 +204,6 @@ label{
 
 .PiePagina footer{
  text-align: center;
- justify-content:center;
  color:white;
 }
 
