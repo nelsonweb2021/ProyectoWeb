@@ -81,17 +81,17 @@
 
 
 #icon-menu {
- width:50px;
- height:50px;
- position:absolute;
- right:20px;
- top:16px;
- font-size:20px;
+ width: 50px;
+ height: 50px;
+ position: absolute;
+ right: 20px;
+ top: 16px;
+ font-size: 20px;
  background: #fafafafa;
  border-radius:100%;
- color:#787878;
- justify-conten:center;
- align-items:center;
+ color: #787878;
+ justify-conten: center;
+ align-items: center;
 }
   
 /************************/
