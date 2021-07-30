@@ -265,6 +265,10 @@ label{
  left: 100px;
 }
 	
+#icon-menu {
+display:flex;	
+}
+	
 		
 }
 
