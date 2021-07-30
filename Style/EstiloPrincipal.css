@@ -96,6 +96,10 @@
  cursor:pointer;
  display:none;
 }
+
+.nav--move {
+transform: translateX(-100%);	
+}
   
 /************************/
 
