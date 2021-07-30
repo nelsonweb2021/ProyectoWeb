@@ -78,28 +78,6 @@
  padding: 5px;
  border-radius: 3px; 
  }
-
-
-.icon-menu {
- width: 50px;
- height: 50px;
- position: absolute;
- right: 20px;
- top: 0px;
- font-size: 20px;
- background: #fafafafa;
- border-radius:100%;
- color: #787878;
- display: flex;
- justify-content: center;
- align-items: center;
- cursor:pointer;
- display:none;
-}
-
-.navmove {
-transform: translateX(-100%);	
-}
   
 /************************/
 
