@@ -36,6 +36,14 @@ body {
 
 }
 
+.contenedor-input {
+ padding: 5px 10px;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+
+}
+
 
 
 
