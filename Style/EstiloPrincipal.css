@@ -186,7 +186,7 @@ label{
 
 
 .tienda article div {
- justify-content: center;
+ align-content: center;
 }
 
 .btn_municipios {
