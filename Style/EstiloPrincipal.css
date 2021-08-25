@@ -185,22 +185,6 @@ label{
 }
 
 
-.btn_municipios {
- background: #188B37;
- color: #fff;
- margin: auto;
- padding: 10px 40px;
- cursor: pointer;
- border-radius: 7px;
-}
-
-.btn_municipios: active {
- transform: scale(1.05);
-}
-
-
-
-
 /**************************/
 
 .espacio{
