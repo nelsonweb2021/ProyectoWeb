@@ -159,8 +159,8 @@ label{
 }
 
 
-.tienda article: active {
-transform: scale (1.10);
+article: active {
+transform: scale (2.3);
  
 }
 
