@@ -159,18 +159,6 @@ label{
 }
 
 
-.article: hover {
-transform: scale (1.5);
- 
-}
-
-
-
-.tienda article: hover {
-	
-transform: scale (1.5);
- 	
-}
 
 .tienda img {
  position:relative;
