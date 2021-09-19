@@ -156,7 +156,12 @@ label{
  border-radius: 15px;
  overflow: hidden;
  cursor: pointer;
+}
 
+
+.tienda article: active {
+transform: scale (1,10);
+ 
 }
 
 
